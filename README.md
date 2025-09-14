@@ -1,1 +1,1 @@
-# -odeling-practical-tasks
+# Modeling-practical-tasks
