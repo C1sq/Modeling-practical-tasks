@@ -1,6 +1,6 @@
 # Modeling-practical-tasks
 
-# Вариант 9
+# Вариант 5
 
 ## **[Лабораторная Работа №1](Lab_1)**
 - **[Отчет](Lab_1/MOD_LR1_KOLYAN.docx)**
